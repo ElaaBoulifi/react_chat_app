@@ -1,0 +1,3 @@
+LEARN: Sockets, Rest APIs, Sending Images, React Hooks,;Rtouting, Props,States,Jsx,Es6 and CSS!
+
+This React Chat App. With online statuses, great design and functionality, icons telling you who read the message, image support, sound notifications, the ability to create multiple rooms, and much more.
